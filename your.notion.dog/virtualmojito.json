@@ -1,0 +1,14 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"7f9d8353917043ad87d9651f93ea6247",
+        "about": "876a5384896d40e0a70eafd9387999e5",
+        "tools": "a2748d6464134f5985e1f5db255b1844",
+        "events": "a838dbd6e541468884de65eca2e3d9e4"
+    },
+  
+    "PAGE_TITLE" : "Virtual Mojito", 
+    "PAGE_DESCRIPTION" : "# We show you the best tools for virtual events, communities, remote works, social meetups, and online classrooms.",
+    
+    "GOOGLE_FONT" : "Rubik",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

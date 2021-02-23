@@ -1,13 +1,13 @@
 {  
     "SLUG_TO_PAGE": {
-        "":"771ef38657244c27b9389734a9cbff44",
-        "thanks": "9d9864f5338b47b0a7f42e0f0e2bbf46",
-        "showcase": "92053970e5084019ac096d2df7e7f440",
-        "roadmap": "7d4b21bfb4534364972e8bf9f68c2c36"
+        "":"47f100dd525343afad4dd2b647e6f388",
+        "about": "42eb85e3c570457b90d7f5e681315acb",
+        "contact": "4c9ac6db6970446b99bc19098e15d304",
+        "process": "08499605deaf4e5a813eaf8e313da446"
     },
   
-    "PAGE_TITLE" : "Fruition", 
-    "PAGE_DESCRIPTION" : "Free, Open Source Toolkit For Customizing Your Notion Page",
+    "PAGE_TITLE" : "Amy Rogers", 
+    "PAGE_DESCRIPTION" : "I help people design, test, and build great digital products. ",
     
     "GOOGLE_FONT" : "Rubik",
     "CUSTOM_SCRIPT" : "<script></script>"

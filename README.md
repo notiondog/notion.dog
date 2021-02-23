@@ -60,6 +60,7 @@ Your website should go live within 24 hours (keep an eye on your pull request in
 ### FAQ
 
 Q: Can I use my own domain(such as **example.com**) rather than **myname.notion.dog**?
+
 A: Not now, maybe later. 😉
 
 

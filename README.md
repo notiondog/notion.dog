@@ -37,7 +37,7 @@ Star This Repo !  😉 😉
 ### Step 1 -  Prerequisite 🗒️
 Enable **Public Access** on your desired pages through Notion's Share menu.
 
-### Step 2 -  Choose Your Subdomain 💡
+### Step 2 -  Choose your subdomain 💡
 Now determine your notion.dog subdomain: either choose your username or the name according to your Notion website (for example, either ```foo.notion.dog``` or ```bar.notion.dog``` would be possible).
 
 ### Step 3 -  [IMPORTANT] Add a JSON data file to this repo  📌
@@ -51,7 +51,7 @@ Now determine your notion.dog subdomain: either choose your username or the name
 
 📌 **IMPORTANT: please  make sure your JSON file is valid and correct in JSON syntax before you move forward!** A [JSON Checker](https://jsonchecker.com/ "JSON Checker") would be help.
 
-### Step 4 ✨
+### Step 4 - Make a pull request ✨
 To finish the procedure, make a pull request in this GitHub repository that adds your subdomain JSON file to the the [```your.notion.dog``` folder](https://github.com/notiondog/notion.dog/tree/main/your.notion.dog). 
 
 Your website should go live within 24 hours (keep an eye on your pull request in case of a naming conflict or a incorrect JSON syntax).

@@ -1,0 +1,12 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"1f076ce3ea1d4ef789acee263890378f",
+        "resume": "a779c1d693994cdfbeee2a6fbcf9340c"
+    },
+  
+    "PAGE_TITLE" : "Hello, I'm Aaron Wang.", 
+    "PAGE_DESCRIPTION" : "Product Designer, UI/UX",
+    
+    "GOOGLE_FONT" : "Rubik",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

@@ -2,9 +2,10 @@
 
 ## Turn your Notion pages into websites in minutes
 > **Turn your Notion pages into fast, functional websites in minutes** with free subdomain, custom google fonts, custom javascript code, pretty URLs, search engine optimization, CDN, and more.
-<!--more-->
 
-And, it's FREE! 😇😇
+NotionDog is the easiest way to build simple, powerful websites `with nothing but Notion`. Especially when you have no money and no own domain at all. 😇
+
+YES, it's FREE! 😇😇
 
 
 ## Showcases

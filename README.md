@@ -15,7 +15,6 @@ https://aaron.notion.dog
 
 https://virtualmojito.notion.dog
 
-https://uxhuntingkit.notion.dog
 
 
 ## Features

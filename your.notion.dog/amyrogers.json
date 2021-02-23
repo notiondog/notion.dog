@@ -1,0 +1,14 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"47f100dd525343afad4dd2b647e6f388",
+        "about": "42eb85e3c570457b90d7f5e681315acb",
+        "contact": "4c9ac6db6970446b99bc19098e15d304",
+        "process": "08499605deaf4e5a813eaf8e313da446"
+    },
+  
+    "PAGE_TITLE" : "Amy Rogers", 
+    "PAGE_DESCRIPTION" : "I help people design, test, and build great digital products. ",
+    
+    "GOOGLE_FONT" : "Rubik",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

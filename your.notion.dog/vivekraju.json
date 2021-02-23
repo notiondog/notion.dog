@@ -1,0 +1,16 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"c8362683057a433887297bde633674f8",
+        "blog": "4fbc5f7f5c274ad3afb9bb9edde47017",
+        "writing": "0776ea3d12334f79bd3f214af505dc7d",
+        "notes": "e3e62972ac6942049ebe70b7c1f5776f",
+        "reading": "8537cac26d774412b5fce648fa7c6526",
+        "product": "a9ee3672aa134ca3a8149acd7277079e",
+    },
+  
+    "PAGE_TITLE" : "Vivek Raju", 
+    "PAGE_DESCRIPTION" : "I am a pitch consultant cum designer at Deck Rooster where we help entrepreneurs create and articulate their investor or sales narrative",
+    
+    "GOOGLE_FONT" : "Rubik",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

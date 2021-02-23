@@ -1,0 +1,13 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"58cc391b0b0241cbbb4baec17ff73f6c",
+        "blog": "a254aa36858d460596604965e130f56c"
+       
+    },
+  
+    "PAGE_TITLE" : "UX Hunting Kit", 
+    "PAGE_DESCRIPTION" : "A tool library and newsletter for new UX Job Seekers",
+    
+    "GOOGLE_FONT" : "Rubik",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

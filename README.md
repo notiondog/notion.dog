@@ -53,7 +53,7 @@ Now determine your notion.dog subdomain: either choose your username or the name
 
 #### Instructions
 **How to add JSON file into the target folder?**
-> ![](https://cdn.jsdelivr.net/gh/notiondog/notion.dog/assets/3.jpg)
+> ![](https://cdn.jsdelivr.net/gh/notiondog/notion.dog/assets/5.jpg)
 
 **Where is my Notion page ID?**
 > It's `the last 32 characters `of your sharing notion page URL.

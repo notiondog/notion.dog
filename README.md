@@ -52,7 +52,7 @@ Now determine your notion.dog subdomain: either choose your username or the name
 📌 **IMPORTANT: please  make sure your JSON file is valid and correct in JSON syntax before you move forward!** A [JSON Checker](https://jsonchecker.com/ "JSON Checker") would be help.
 
 #### Instructions
-**How to add file into that fold?**
+**How to add JSON file into the target folder?**
 > ![](https://cdn.jsdelivr.net/gh/notiondog/notion.dog/assets/3.jpg)
 
 **Where is my Notion page ID?**

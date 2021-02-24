@@ -36,6 +36,7 @@ Star This Repo !  😉 😉
 
 ### Step 1 -  Prerequisite 🗒️
 Enable **Public Access** on your desired pages through Notion's Share menu.
+![](https://raw.githubusercontent.com/notiondog/notion.dog/main/assets/1.jpg)
 
 ### Step 2 -  Choose your subdomain 💡
 Now determine your notion.dog subdomain: either choose your username or the name according to your Notion website (for example, either ```foo.notion.dog``` or ```bar.notion.dog``` would be possible).
@@ -46,10 +47,21 @@ Now determine your notion.dog subdomain: either choose your username or the name
 
  💡 When your JSON file is named` foo.json`,  the finally URL would be `https://foo.notion.so`.
 
-
 ✏️  **Configue everything in your JSON file**, such as home page, URL slugs,custom google fonts, custom javascript code, page title, meta description and more. Please refer to the demo file [amyrogers.json ](https://github.com/notiondog/notion.dog/blob/main/your.notion.dog/amyrogers.json "amyrogers.json ") to figure out how to get it done , it's easy to understand.  😉
 
 📌 **IMPORTANT: please  make sure your JSON file is valid and correct in JSON syntax before you move forward!** A [JSON Checker](https://jsonchecker.com/ "JSON Checker") would be help.
+
+#### Instructions
+**How to add file into that fold?**
+> ![](https://raw.githubusercontent.com/notiondog/notion.dog/main/assets/3.jpg)
+
+**Where is my Notion page ID?**
+> It's `the last 32 characters `of your sharing notion page URL.
+![](https://raw.githubusercontent.com/notiondog/notion.dog/main/assets/2.jpg)
+
+**How to configure my site in JSON file?**
+> ![](https://raw.githubusercontent.com/notiondog/notion.dog/main/assets/4.jpg)
+
 
 ### Step 4 - Make a pull request ✨
 To finish the procedure, make a pull request in this GitHub repository that adds your subdomain JSON file to the the [```your.notion.dog``` folder](https://github.com/notiondog/notion.dog/tree/main/your.notion.dog). 

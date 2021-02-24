@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"d32e96701a984f1ebe126c46eca4c865"
+    },
+  
+    "PAGE_TITLE" : "Hello, I'm Ritchie Cai.", 
+    "PAGE_DESCRIPTION" : "The collections of notes",
+    
+    "GOOGLE_FONT" : "Rubik",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

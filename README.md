@@ -36,7 +36,7 @@ Star This Repo !  😉 😉
 
 ### Step 1 -  Prerequisite 🗒️
 Enable **Public Access** on your desired pages through [Notion](https://notion.so "Notion")'s Share menu.
-![](https://raw.githubusercontent.com/notiondog/notion.dog/main/assets/1.jpg)
+![](https://cdn.jsdelivr.net/gh/notiondog/notion.dog/assets/1.jpg)
 
 ### Step 2 -  Choose your subdomain 💡
 Now determine your notion.dog subdomain: either choose your username or the name according to your Notion website (for example, either ```foo.notion.dog``` or ```bar.notion.dog``` would be possible).
@@ -53,14 +53,14 @@ Now determine your notion.dog subdomain: either choose your username or the name
 
 #### Instructions
 **How to add file into that fold?**
-> ![](https://raw.githubusercontent.com/notiondog/notion.dog/main/assets/3.jpg)
+> ![](https://cdn.jsdelivr.net/gh/notiondog/notion.dog/assets/3.jpg)
 
 **Where is my Notion page ID?**
 > It's `the last 32 characters `of your sharing notion page URL.
-![](https://raw.githubusercontent.com/notiondog/notion.dog/main/assets/2.jpg)
+![](https://cdn.jsdelivr.net/gh/notiondog/notion.dog/assets/2.jpg)
 
 **How to configure my site in JSON file?**
-> ![](https://raw.githubusercontent.com/notiondog/notion.dog/main/assets/4.jpg)
+> ![](https://cdn.jsdelivr.net/gh/notiondog/notion.dog/assets/4.jpg)
 
 
 ### Step 4 - Make a pull request ✨

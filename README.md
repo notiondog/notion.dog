@@ -35,7 +35,7 @@ https://virtualmojito.notion.dog
 Star This Repo !  😉 😉
 
 ### Step 1 -  Prerequisite 🗒️
-Enable **Public Access** on your desired pages through Notion's Share menu.
+Enable **Public Access** on your desired pages through [Notion](https://notion.so "Notion")'s Share menu.
 ![](https://raw.githubusercontent.com/notiondog/notion.dog/main/assets/1.jpg)
 
 ### Step 2 -  Choose your subdomain 💡

@@ -1,0 +1,11 @@
+{
+    "SLUG_TO_PAGE": {
+        "": "5279483f808c4b1183406a72afdf31a7"
+    },
+
+    "PAGE_TITLE": "Notion で作られた国内サイト事例集",
+    "PAGE_DESCRIPTION": "このページでは、日本国内の Notion 製サイト事例を紹介しています。",
+
+    "GOOGLE_FONT": "Noto Sans",
+    "CUSTOM_SCRIPT": "<script></script>"
+}

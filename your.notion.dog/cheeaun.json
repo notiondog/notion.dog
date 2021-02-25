@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"h031f0953d8154b00b9da7f88337b8a0d",
+        "tech-design-conf-asia": "a415c0ebe31e45d69125be498658a07a"
+    },
+    "PAGE_TITLE" : "Lim Chee Aun", 
+    "PAGE_DESCRIPTION" : "Product engineer and Map data visualiser, based in Singapore 🇸🇬",
+    
+    "GOOGLE_FONT" : "Work Sans",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

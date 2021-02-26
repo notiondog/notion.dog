@@ -18,6 +18,8 @@ https://virtualmojito.notion.dog
 
 https://ritchnotes.notion.dog
 
+https://japanese-sites.notion.dog
+
 ## Features
 - **Fast**: Optimized, statically generated, and hosted on a CDN. NotionDog is the easiest way to build simple, powerful websites with nothing but Notion.
 - **SEO-Friendly**: NotionDog automatically creates sitemap and robots.txt for your website.

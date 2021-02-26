@@ -1,0 +1,13 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"403cc2a78733483bad8f079ef3911f9f",
+        "resume": "35a5f626dff54141af7eb7f9cd13d69d",
+        "lets-work-together": "ed120963c7ba4e9e9e7bfa6869c4b995"
+    },
+  
+    "PAGE_TITLE" : "Elliot Teo", 
+    "PAGE_DESCRIPTION" : "I design interfaces, test, and build great digital products. ",
+    
+    "GOOGLE_FONT" : "Karla",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

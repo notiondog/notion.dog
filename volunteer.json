@@ -1,0 +1,16 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"30c59c17e4fe4d2ea634e4018228519b",
+        "apply": "37a8c2b80ff847b0ac229d13849cd5e9",
+        "board": "936154b11a23430d8e093a524bbec678",
+        "directory": "1d0bb2b9b99642309e71a984c426da8d"
+        "tasks": "e8b2281012ff4c13a8a08bf2b9af77a5",
+        "links": "b77a4c4e89364526af494cba5533d46c"
+        "forms": "e5c98ba3488e4c27b21fc66557164cd1"
+    },
+  
+    "PAGE_TITLE" : "Sustainable Transport Volunteer Hub", 
+    "PAGE_DESCRIPTION" : "The central home for all Sustainable Transport Holdings volunteer services. ",
+    
+    "GOOGLE_FONT" : "Inter",
+}

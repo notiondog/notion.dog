@@ -12,7 +12,7 @@ YES, it's FREE! 😇😇
 
 https://amyrogers.notion.dog
 
-http://youwang.notion.dog/
+http://youwang.notion.dog
 
 https://aaron.notion.dog
 

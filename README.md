@@ -12,9 +12,9 @@ YES, it's FREE! 😇😇
 
 https://amyrogers.notion.dog
 
-http://juliana.notion.dog
+https://juliana.notion.dog
 
-http://youwang.notion.dog
+https://youwang.notion.dog
 
 https://aaron.notion.dog
 

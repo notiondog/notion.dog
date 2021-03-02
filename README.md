@@ -12,6 +12,8 @@ YES, it's FREE! 😇😇
 
 https://amyrogers.notion.dog
 
+http://juliana.notion.dog
+
 http://youwang.notion.dog
 
 https://aaron.notion.dog

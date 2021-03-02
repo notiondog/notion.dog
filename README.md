@@ -18,7 +18,7 @@ http://youwang.notion.dog
 
 https://aaron.notion.dog
 
-https://virtualmojito.notion.dog
+https://zz.notion.dog
 
 https://ritchnotes.notion.dog
 

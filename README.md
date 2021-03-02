@@ -53,7 +53,7 @@ Now determine your notion.dog subdomain: either choose your username or the name
 
 ### Step 3 -  [IMPORTANT] Add a JSON data file to this repo  📌
 🏮 Add a JSON data file named ```[your-subdomain].json``` into the [```your.notion.dog``` folder](https://github.com/notiondog/notion.dog/tree/main/your.notion.dog) of this repo.
-> examples: [aaron.json](https://github.com/notiondog/notion.dog/blob/main/your.notion.dog/aaron.json "aaron.json")    , [amyrogers.json ](https://github.com/notiondog/notion.dog/blob/main/your.notion.dog/amyrogers.json "amyrogers.json ").
+> examples: [juliana.json](https://github.com/notiondog/notion.dog/blob/main/your.notion.dog/juliana.json "juliana.json")    , [amyrogers.json ](https://github.com/notiondog/notion.dog/blob/main/your.notion.dog/amyrogers.json "amyrogers.json ").
 
  💡 When your JSON file is named` foo.json`,  the finally URL would be `https://foo.notion.dog`.
 

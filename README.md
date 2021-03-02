@@ -10,11 +10,11 @@ YES, it's FREE! 😇😇
 
 ## Showcases
 
-https://amyrogers.notion.dog
-
 https://juliana.notion.dog
 
 https://youwang.notion.dog
+
+https://amyrogers.notion.dog
 
 https://aaron.notion.dog
 

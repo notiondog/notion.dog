@@ -4,5 +4,8 @@
     },
   
     "PAGE_TITLE" : "Les Souscripteurs", 
-    "PAGE_DESCRIPTION" : "Finance tes BSPCE simplement"
+    "PAGE_DESCRIPTION" : "Finance tes BSPCE simplement",
+    
+    "GOOGLE_FONT" : "Rubik",
+    "CUSTOM_SCRIPT" : "<script async src='https://cdn.splitbee.io/sb.js'></script>"
 }

@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"223adea2538a4e7cbe5a7bc81eaafb30"
+    },
+  
+    "PAGE_TITLE" : "John Doe", 
+    "PAGE_DESCRIPTION" : "Resume Builder",
+    
+    "GOOGLE_FONT" : "Nunito",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

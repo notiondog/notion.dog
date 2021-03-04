@@ -1,0 +1,11 @@
+{
+    "SLUG_TO_PAGE": {
+        "":"e5984b5f63eb455dbc8c05eeb84a1174"
+    },
+
+    "PAGE_TITLE" : "Crypto Twitter Bots 🤖",
+    "PAGE_DESCRIPTION" : "Follow community/wallet holder growth of select tokens",
+
+    "GOOGLE_FONT" : "DotGothic16",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

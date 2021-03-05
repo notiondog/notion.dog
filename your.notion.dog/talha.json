@@ -1,0 +1,12 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"b442d86456e7462ab0c2c15f940aa84c",
+        "portfolio": "85dfc2ac67c64158a330c845831aca04"
+    },
+  
+    "PAGE_TITLE" : "Talha Chowdhury", 
+    "PAGE_DESCRIPTION" : "I'll post anything here.",
+    
+    "GOOGLE_FONT" : "Noto Sans",
+    "CUSTOM_SCRIPT": "<script></script>"
+}

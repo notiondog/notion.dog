@@ -11,6 +11,6 @@
 
     "PAGE_TITLE" : "kieukette", 
     "PAGE_DESCRIPTION" : "이 창 너머의 당신, 당신이 이어가는 이야기",
-
+    "GOOGLE_FONT" : "Poppins",
     "CUSTOM_SCRIPT" : "<script></script>"
 }

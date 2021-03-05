@@ -1,0 +1,13 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"2a130107e9d341879b9e609e9114d33a",
+        "help": "21ee1c8c859e49bcaaba7f85c023ea75",
+        "social-choose": "747a42aead964119a860d2e955a946ec",
+        "giga-choose": "0fabfa7e27bf4595bb4e5b94af067838"
+    },
+
+    "PAGE_TITLE" : "1-2반 시간표", 
+    "PAGE_DESCRIPTION" : "timetable",
+    "GOOGLE_FONT" : "Nunito",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

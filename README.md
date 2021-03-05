@@ -7,6 +7,8 @@ NotionDog is the easiest way to build simple, powerful websites `with nothing bu
 
 YES, it's FREE! 😇😇
 
+<a href="https://www.producthunt.com/posts/notion-dog?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-notion-dog" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=285779&theme=light&period=daily" alt="Notion Dog  - Turn your Notion pages into websites in minutes | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 
 ## Showcases
 

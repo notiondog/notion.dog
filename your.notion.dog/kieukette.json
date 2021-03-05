@@ -1,0 +1,16 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"8134a48076804b208db48b9d79e1b291",
+        "portfolio": "1c42b3c080a44b2ebf9dbe95de8a69f6",
+        "drawing": "b5dc459cfde04a859c224ba6c15c4534",
+        "culture": "0a42fd178d334215b2708480416acc41",
+        "writing": "24dd456b4d504394b1ed743f635a23b6",
+        "site-for-work": "cd4ea1dabdc24c2189fd5748b08a5ec2"
+
+    },
+
+    "PAGE_TITLE" : "kieukette", 
+    "PAGE_DESCRIPTION" : "이 창 너머의 당신, 당신이 이어가는 이야기",
+
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

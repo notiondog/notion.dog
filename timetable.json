@@ -8,6 +8,6 @@
 
     "PAGE_TITLE" : "1-2반 시간표", 
     "PAGE_DESCRIPTION" : "timetable",
-
+    "GOOGLE_FONT" : "Nunito",
     "CUSTOM_SCRIPT" : "<script></script>"
 }

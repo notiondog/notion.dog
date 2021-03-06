@@ -1,0 +1,8 @@
+ {  
+    "SLUG_TO_PAGE": {
+        "timetable-giga":"0fabfa7e27bf4595bb4e5b94af067838",
+    },
+
+    "PAGE_TITLE" : "timetable-help", 
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

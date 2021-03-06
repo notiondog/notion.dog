@@ -1,7 +1,14 @@
 {  
     "SLUG_TO_PAGE": {
         "":"b442d86456e7462ab0c2c15f940aa84c",
-        "portfolio": "85dfc2ac67c64158a330c845831aca04"
+        "portfolio": "85dfc2ac67c64158a330c845831aca04",
+        "admissions": "e42ce4af56534a7b97ad1bc4fc41866b",
+        "life": "ce31d6d983ac42f4bc09f840d28363ca",
+        "recommendations": "236694f3446848f68f16bad388513898",
+        "opinions": "5888d93d38df483793f7f64a448d58b1",
+        "bookmarks": "615ba0709aba4270bb320edd9aeab6c1",
+        "explaining": "ffdd885b32f24c489c2f562daabdfb51",
+        "featured": "7ca07173d9f64a8ab955295a31a63710"
     },
   
     "PAGE_TITLE" : "Talha Chowdhury", 

@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"68f61d2686574371b19e824cb7456bf1"
+    },
+
+    "PAGE_TITLE" : "함께가는교회", 
+    "PAGE_DESCRIPTION" : "함께가는교회 성경공부 홈페이지",
+    
+    "GOOGLE_FONT" : "Noto Sans SC",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

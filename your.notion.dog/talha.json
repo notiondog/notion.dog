@@ -15,5 +15,5 @@
     "PAGE_DESCRIPTION" : "I'll post anything here.",
     
     "GOOGLE_FONT" : "Noto Sans",
-    "CUSTOM_SCRIPT": "<script async src='https://cdn.splitbee.io/sb.js'></script>"
+    "CUSTOM_SCRIPT" : "<script async src='https://cdn.splitbee.io/sb.js'></script>"
 }

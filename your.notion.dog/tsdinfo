@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "": "60b7c317f4cf400a97ce840907efcb33"
+    },
+
+    "PAGE_TITLE": "Полезное для ТСД",
+    "PAGE_DESCRIPTION": "",
+
+    "GOOGLE_FONT": "Noto Sans",
+    «CUSTOM_SCRIPT»: «<script> </script>»
+}

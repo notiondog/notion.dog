@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"435dbe45743a49b9a407f5858b109d40",
+    },
+  
+    "PAGE_TITLE" : "WMCD'site", 
+    "PAGE_DESCRIPTION" : "I help people find excellent tools and improve efficiency. ",
+    
+    "GOOGLE_FONT" : "Noto Serif SC",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

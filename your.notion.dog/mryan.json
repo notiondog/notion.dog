@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"e3db7735c3cb42808c6552447827a6d7"
+    },
+  
+    "PAGE_TITLE" : "Mauricio Ryan", 
+    "PAGE_DESCRIPTION" : "Mereces lo que sueñas",
+    
+    "GOOGLE_FONT" : "Rubik",
+    "CUSTOM_SCRIPT" : "<script async src='https://cdn.splitbee.io/sb.js'></script>"
+}

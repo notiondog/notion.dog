@@ -1,0 +1,16 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"3e261e3808224411bf140969709e3acc",
+        "about": "cee700335fbb4db19a441483fc8c2e55",
+        "blog": "7da7711923224b818873857f30b0be38",
+        "newsletter": "bd9bfae70a6944f8875d603abeaf9a1a",
+        "gallery": "fa05f6585cc844b68e8ed433e4211326",
+        "gallery/drawing-i-college-class-2012": "2e477fd9ef154b17a4e76d7b6f7ace91"
+    },
+  
+    "PAGE_TITLE" : "Erik Newhard", 
+    "PAGE_DESCRIPTION" : "Erik Newhard's personal website.",
+    
+    "GOOGLE_FONT" : "",
+    "CUSTOM_SCRIPT" : ""
+}

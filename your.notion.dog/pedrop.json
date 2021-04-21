@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"33207ea153964f81b0a37b3633b784d5"
+    },
+  
+    "PAGE_TITLE" : "Chez Pedro", 
+    "PAGE_DESCRIPTION" : "Pedro's first page",
+    
+    "GOOGLE_FONT" : "Rubik",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"fef8357d45364b51a3a9494ad791e573"
+    },
+  
+    "PAGE_TITLE" : "SY Megan", 
+    "PAGE_DESCRIPTION" : "Product designer based in Seoul, Korea",
+    
+    "GOOGLE_FONT" : "Nunito",
+    "CUSTOM_SCRIPT" : "<script async src='https://cdn.splitbee.io/sb.js'></script>"
+}

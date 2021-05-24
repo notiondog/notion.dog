@@ -1,0 +1,36 @@
+{
+	"SLUG_TO_PAGE": {
+		"": "e70db7e0bd07441aa83713c4738334ca",
+		"indianhistorytable": "d148d34830264d47a586fac964f037f3",
+		"wardhascheme": "db3355c6e1814efbb34c8651f49208af",
+		"womeninthe1937elections": "da7da693d8a44589b42d77c93dbe559a",
+		"electionsof1937": "fac06a88a58740e0a6de508689c2a644",
+		"crippsmission": "44c6c96048fc40d09d80b1fb9fb25211",
+		"quitindia": "49f7857232894f418245105be96c8bb0",
+		"cabinetmission": "e7ee9b67f4dd446fb4dc559fe0b6baf5",
+		"riverwaterdispute": "de686ed2c7b64bd99467aa203fd4449d",
+		"refugeecrisis": "e4ace863f5a04a48ab3dc1a5a26f9559",
+		"indiasinceindependence": "9b3f4f8e924c4ead85aaccd95be17249",
+		"congresssplits1969": "e8e8677cd2e14fb196275471804d8777",
+		"jpmovement": "ee71b4a1ab3d47e980e84c05e75c389b",
+		"sourcesofhistoryemergency": "147ed390c1ca4b059b1f5ce0884e43be",
+		"emergency": "890ee124353e4229b7d6eef341211785",
+		"endofemergency": "566a897e989e4a7e83f2572f204cda5b",
+		"punjabisubamovement": "35dbb90e33b846fea3285c65f5c054df",
+		"naxalitemovement": "78eb1ec0df4645ba88266a58dd3eb63b",
+		"sinoindianwar": "a64d080c3e144048afee3f633b0d628e",
+		"assamagitation": "2b0806440e814181bd5a091b155a593c",
+		"nagamizodemandforautonomy": "8aa36080c2564683af69dceedcaf1717",
+		"about": "9c2067dd51924f0ab3449cb847f09df2",
+		"contactinfo": "3d43a71a614a4cc8aeaef0ba54a05998",
+		"suggestedbooks": "38a9f337b7db403ba1fdedb3109249cc",
+		"copyrightnotice": "714f80d26e2948d5a0c003431a662f3b",
+		"antiplagiarismnotice": "301b9c11779048b982c8b7a3a76e3dbe"
+	},
+
+	"PAGE_TITLE": "Indian History Notes",
+	"PAGE_DESCRIPTION": "An academic resource for students of Indian History with verified references.",
+
+	"GOOGLE_FONT": "Noto Serif",
+	"CUSTOM_SCRIPT": "<script async src='https://cdn.splitbee.io/sb.js'></script>"
+}

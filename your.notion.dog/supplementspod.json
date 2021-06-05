@@ -1,0 +1,13 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"64a1530670e242e28bbfc129b51fdd0a",
+        "Episodes": "264b75b62ae344e99d59dcb650a9a3aa",
+        "Sources": "a2eb4e6cad5b430faa1e8d7c4811bbcf",
+        "About Us": "92af7e0f05a44829a92a3d3be5080009",
+        "Contact Us": "e106a0db655b4169a54876d71439a95c"
+    },
+  
+    
+    "GOOGLE_FONT" : "Serif",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

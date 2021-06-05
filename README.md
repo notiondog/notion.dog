@@ -14,6 +14,8 @@ YES, it's FREE! 😇😇
 
 https://juliana.notion.dog
 
+https://supplementspod.notion.dog
+
 https://youwang.notion.dog
 
 https://amyrogers.notion.dog

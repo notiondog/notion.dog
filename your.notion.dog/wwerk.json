@@ -1,7 +1,10 @@
 {  
     "SLUG_TO_PAGE": {
         "":"25861755c94a4ed68cff1ad285be2c9c",
-        "about": "2bc3c5b8f1e3445faa9aa29754f2163e"
+        "about": "2bc3c5b8f1e3445faa9aa29754f2163e",
+        "music": "908f79cdbdf54e97aa68d15339501a34",
+        "projects": "56479b890e124569a49d7ae811b5efc7",
+        "calendar": "dc25010eeb1e43498b47949db111778b"
     },
   
     "PAGE_TITLE" : "W Kacper Werkowicz", 

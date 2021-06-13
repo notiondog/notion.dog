@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"a9c6e5cb16b54a0e86dee584ba198a00"
+    },
+  
+    "PAGE_TITLE" : "Alex He", 
+    "PAGE_DESCRIPTION" : "An aspiring full-stack web developer from the land Down Under 🦘 who likes to make things.",
+    
+    "GOOGLE_FONT" : "Rubik",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

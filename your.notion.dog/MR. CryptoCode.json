@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"70cc04e810f94019909d4f3f478104b4"
+    },
+  
+    "PAGE_TITLE" : "MR. CryptoCode", 
+    "PAGE_DESCRIPTION" : "Blog site",
+    
+    "GOOGLE_FONT" : "Serif",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

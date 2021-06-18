@@ -1,0 +1,13 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"93fe680161504e63a749022848cd195f",
+        "resume": "499c97eda25142299c61ef60937c462a",
+        "lets-work-together": "c171f5e3bdcd4ddcbfe887e90f6f4980"
+    },
+  
+    "PAGE_TITLE" : "Shamim", 
+    "PAGE_DESCRIPTION" : "I'll share useful info here. ",
+    
+    "GOOGLE_FONT" : "Karla",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

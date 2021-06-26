@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"9abd4b6fb56d43ce965c940d71e15b03"
+    },
+  
+    "PAGE_TITLE" : "Km AkHluk", 
+    "PAGE_DESCRIPTION" : "World of Nothing.",
+    
+    "GOOGLE_FONT" : "Noto Sans",
+    "CUSTOM_SCRIPT" : "<script async src='https://cdn.splitbee.io/sb.js'></script>"
+}

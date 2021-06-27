@@ -10,6 +10,6 @@
     "PAGE_TITLE" : "W Kacper Werkowicz", 
     "PAGE_DESCRIPTION" : "Computer musician, developer and sound artist.",
     
-    "GOOGLE_FONT" : "Noto Sans",
+    "GOOGLE_FONT" : "",
     "CUSTOM_SCRIPT" : "<script></script>"
 }

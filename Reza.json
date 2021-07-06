@@ -1,0 +1,13 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"1b19c863bf8c4833872f63818dc701c0",
+        "playground": "ab1bcd4b71224e868bd23ac52fa5b16d?v=8c130331aa794c6fa64b93bc5b399189"
+        "about": "c516a433da844644bb34b8029d40d335"
+    },
+  
+    "PAGE_TITLE" : "My Name is Reza Amalia", 
+    "PAGE_DESCRIPTION" : "Aspiring to be a UX Designer",
+    
+
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

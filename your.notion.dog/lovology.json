@@ -1,0 +1,14 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"4bde1dfb9a594b02be4bfbb6ecdc3e7f",
+        "Страница 2": "",
+        "Страница 3": "",
+        "Страница 3": ""
+    },
+  
+    "PAGE_TITLE" : "Lovology", 
+    "PAGE_DESCRIPTION" : "Тестовая страница для опроса ",
+    
+    "GOOGLE_FONT" : "Rubik",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}

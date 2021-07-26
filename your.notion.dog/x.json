@@ -1,0 +1,14 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"dcaed1589bbc4afbb667b48bd3537ee9",
+        "about": "",
+        "contact": "",
+        "process": ""
+    },
+  
+    "PAGE_TITLE" : "Amy Rogers", 
+    "PAGE_DESCRIPTION" : "I help people design, test, and build great digital products. ",
+    
+    "GOOGLE_FONT" : "Rubik",
+    "CUSTOM_SCRIPT" : "<script async src='https://cdn.splitbee.io/sb.js'></script>"
+}

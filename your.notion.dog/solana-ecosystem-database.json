@@ -1,0 +1,14 @@
+{
+	"SLUG_TO_PAGE": {
+		"": "1d54d6e514f444d19bf9fa4294af4a0b",
+		"about": "9adbdbc36e74446a8f7006b5c8f949de",
+		"docs": "e9ebf5f7c8af486c8fa1a8f6b01600a7",
+		"database": "f8cf55a53ac34d118aae18b906aff319?v=adb59642f59d4b63a0a803bb45cad7c2"
+	},
+
+	"PAGE_TITLE": "Solana ecosystem projects database",
+	"PAGE_DESCRIPTION": "Community maintained Solana ecosytem projects databse",
+
+	"GOOGLE_FONT": "Rubik",
+	"CUSTOM_SCRIPT": "<script></script>"
+}

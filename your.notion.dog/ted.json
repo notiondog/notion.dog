@@ -1,10 +1,11 @@
 {  
     "SLUG_TO_PAGE": {
         "":"7ec7a9e088e64249a810c8d20061e087"
+        "flutter":"2bd0ed8d04f04b3d94c0d922d11df7d6"
     },
   
-    "PAGE_TITLE" : "WOOSUB LEE", 
-    "PAGE_DESCRIPTION" : "LIKELION Product Manager",
+    "PAGE_TITLE" : "온라인 스터디 모임", 
+    "PAGE_DESCRIPTION" : "온라인 강의를 들으면서 공부해요!",
     
     "GOOGLE_FONT" : "Nunito",
     "CUSTOM_SCRIPT" : "<script></script>"

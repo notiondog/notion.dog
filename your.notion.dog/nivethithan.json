@@ -1,0 +1,10 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"c5e4899bbcca46f0846fb1e6fa636837"
+    },
+  
+    "PAGE_TITLE" : "Startup-IQ", 
+    "PAGE_DESCRIPTION" : "Startup resources",
+
+    "CUSTOM_SCRIPT" : "<script>var _paq = window._paq = window._paq || [];/* tracker methods like "setCustomDimension" should be called before "trackPageView" */_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);(function() {var u="https://nivethithannotiondog.matomo.cloud/";_paq.push(['setTrackerUrl', u+'matomo.php']);_paq.push(['setSiteId', '1']);var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];g.async=true; g.src='//cdn.matomo.cloud/nivethithannotiondog.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);})();</script>"
+}

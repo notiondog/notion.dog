@@ -1,0 +1,14 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"e50df725f00247e4b5e8c9a1273e64c6",
+        "Books": "9a9d8b8416c340efa76f66abf38a784b",
+        "serialkillers": "8bce59561cd04464a83aa9ddf4b9b6bb",
+        "serialkillers research": "faa1c0bfcbd84e368f9ebadad0d5e933"
+    },
+  
+    "PAGE_TITLE" : "no nicolekaro", 
+    "PAGE_DESCRIPTION" : "My current projects ",
+    
+    "GOOGLE_FONT" : "Lato",
+    "CUSTOM_SCRIPT" : "<script async src='https://cdn.splitbee.io/sb.js'></script>"
+}
